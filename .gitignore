@@ -13,4 +13,7 @@ data/
 backup/
 output/
 AutogluonModels/
+cache/
+logs/
+.ipynb_checkpoints/
 
